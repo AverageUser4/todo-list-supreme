@@ -1,0 +1,11 @@
+.website-header {
+  padding: 32px;
+
+  background-color: #111;
+  text-align: center;
+}
+
+.website-header__heading {
+  margin: 0;
+  font-weight: 500;
+}

@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  background: #555;
+  color: white;
+  font-family: sans-serif;
+}
+
+.emphasis {
+  font-weight: bold;
+  font-family: sans-serif;
+  font-style: italic;
+  text-decoration: 3px underline dashed;
+}

@@ -1,0 +1,19 @@
+.todo-list {
+  text-align: center;
+}
+
+.todo-list__list {
+  display: grid;
+  justify-content: start;
+  justify-items: start;
+  gap: 16px;
+
+  list-style-position: inside;
+}
+
+.todo-list__item {
+  background-color: #111;
+  padding: 8px;
+  
+  user-select: none;
+}
